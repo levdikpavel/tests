@@ -6,6 +6,7 @@ import (
 )
 
 const (
+	// accuracy level
 	epsilon = 1e-5
 	maxUint = ^uint(0)
 	minUint = 0
